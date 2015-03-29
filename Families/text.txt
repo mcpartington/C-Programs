@@ -1,0 +1,11 @@
+AddHusband              100100100                  Jim                   Smith
+
+PrintAllFamilies
+
+AddHusband              200200200                  Joe                   Brown
+
+AddWife                     210210210                  Linda               Brown             200200200
+
+AddAChild                  211211211                  Nina                Brown             200200200
+
+PrintAllFamilies
